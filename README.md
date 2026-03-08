@@ -1,35 +1,35 @@
-# Hi, I'm Anna 👋
+# ML Course · Hillel IT
 
-I'm studying **Machine Learning** — building projects from scratch using real datasets.
-
----
-
-## 🧠 ML Course Projects
-
-| # | Project | Topics | Tools |
-|---|---------|--------|-------|
-| 01 | [NumPy · Iris Dataset](https://github.com/annkhl) | Arrays, statistics | NumPy |
-| 02 | [Pandas · UCI Adult Income](https://github.com/annkhl) | Data analysis, cleaning | Pandas |
-| 03 | [Data Visualisation](https://github.com/annkhl) | Charts, distributions | Matplotlib, Seaborn |
-| 04 | [Linear Regression](https://github.com/annkhl) | Regression, MSE, R² | Scikit-learn |
-| 05 | [Classification Metrics](https://github.com/annkhl) | Accuracy, F1, ROC-AUC | Scikit-learn |
-| 06 | [Decision Tree](https://github.com/annkhl) | Tree pruning, feature importance | Scikit-learn |
-| 07 | [Ensemble Models](https://github.com/annkhl) | Random Forest, XGBoost | Scikit-learn, XGBoost |
-| 08 | [Clustering](https://github.com/annkhl) | K-Means, DBSCAN | Scikit-learn |
-| 09 | [Class Imbalance](https://github.com/annkhl) | SMOTE, resampling | imbalanced-learn |
-| 10 | [Clustering + Dimensionality Reduction](https://github.com/annkhl) | PCA, t-SNE | Scikit-learn |
-| 11 | [Neural Networks · MNIST](https://github.com/annkhl) | MLP, backpropagation | Keras |
-| 12 | [Neural Networks · Fashion-MNIST](https://github.com/annkhl) | CNN, dropout, batch norm | Keras |
-| 13 | [Image Processing & Augmentation](https://github.com/annkhl) | Transforms, augmentation | OpenCV, Albumentations |
-| 14 | [Intro to NLP](https://github.com/annkhl) | Tokenization, TF-IDF | NLTK, Scikit-learn |
-| 15 | [spaCy · NER](https://github.com/annkhl) | Named entity recognition | spaCy |
-| 16 | [RNN](https://github.com/annkhl) | LSTM, GRU, sequences | Keras |
-| 17 | [Transformer · Translation](https://github.com/annkhl) | Attention, encoder-decoder | PyTorch |
-| 18 | [Reinforcement Learning](https://github.com/annkhl) | Q-learning, policy gradient | OpenAI Gym |
+18 projects covering the full ML pipeline — from data analysis to transformers and reinforcement learning.
 
 ---
 
-## 🛠 Stack
+## Projects
+
+| # | Project | Notebook | Tools |
+|---|---------|----------|-------|
+| 01 | NumPy · Iris Dataset | [📓 open](https://github.com/annkhl/ML_projects/tree/main/01_numpy_iris) | NumPy |
+| 02 | Pandas · UCI Adult Income | [📓 open](https://github.com/annkhl/ML_projects/tree/main/02_pandas_UCI_Adult) | Pandas |
+| 03 | Data Visualisation | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW3_data_visualisation.ipynb) | Matplotlib, Seaborn |
+| 04 | Linear Regression | [📓 open](https://github.com/annkhl/ML_projects/blob/main/hw5_LinReg_Khlud.ipynb) | Scikit-learn |
+| 05 | Classification Metrics | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW6_KNN_Khlud_rings%20(2)%20(1).ipynb) | Scikit-learn |
+| 06 | Decision Tree | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW7_DecisionTree%20(2)%20(1).ipynb) | Scikit-learn |
+| 07 | Ensemble Models | [📓 open](https://github.com/annkhl/ML_projects/blob/main/Hw_8%20(3)%20(1).ipynb) | Random Forest, XGBoost |
+| 08 | Clustering | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW10Khlud%20(2).ipynb) | K-Means, DBSCAN |
+| 09 | Class Imbalance | ⏳ coming soon | imbalanced-learn |
+| 10 | Clustering + Dimensionality Reduction | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW11_Khlud.ipynb) | PCA, t-SNE |
+| 11 | Neural Networks · MNIST | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW12_MNIST%20(2).ipynb) | Keras |
+| 12 | Neural Networks · Fashion-MNIST | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW13_Khlud.ipynb) | Keras, CNN |
+| 13 | Image Processing & Augmentation | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW14%20Khlud.ipynb) | OpenCV, Albumentations |
+| 14 | Intro to NLP | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW15.ipynb) | NLTK, Scikit-learn |
+| 15 | spaCy · NER | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW16%20(1).ipynb) | spaCy |
+| 16 | RNN | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW17_Khlud.ipynb) | Keras, LSTM |
+| 17 | Transformer · Translation | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW18_Khlud_.ipynb) | PyTorch |
+| 18 | Reinforcement Learning | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW19_Khlud.ipynb) | OpenAI Gym |
+
+---
+
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
