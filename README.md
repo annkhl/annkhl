@@ -1,3 +1,30 @@
+# Hi, I'm Ann 👋
+
+I'm a Data Science student passionate about turning data into insights.  
+Currently focused on Machine Learning, Deep Learning, Computer Vision and NLP.
+
+---
+
+## 🚀 What I'm working on
+
+- 🧠 **ML Course** — 18 projects from linear regression to transformers
+- 📊 **Data Science** — exploratory analysis, feature engineering, modelling
+- 🤖 **Deep Learning** — CV and NLP projects
+- 🏆 **Kaggle** — competitions and datasets
+
+---
+
+## 📂 Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [ML_projects](https://github.com/annkhl/ML_projects) | ML course by Hillel IT · 18 projects |
+
+
+*Always learning, always building* 🌱
+
+
+
 # ML Course 
 
 18 projects covering the full ML pipeline — from data analysis to transformers and reinforcement learning.
