@@ -1,4 +1,4 @@
-# ML Course · Hillel IT
+# ML Course 
 
 18 projects covering the full ML pipeline — from data analysis to transformers and reinforcement learning.
 
