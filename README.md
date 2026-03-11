@@ -43,7 +43,7 @@ Currently focused on Machine Learning, Deep Learning, Computer Vision and NLP.
 | 06 | Decision Tree | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW7_DecisionTree%20(2)%20(1).ipynb) | Scikit-learn |
 | 07 | Ensemble Models | [📓 open](https://github.com/annkhl/ML_projects/blob/main/Hw_8%20(3)%20(1).ipynb) | Random Forest, XGBoost |
 | 08 | Clustering | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW10Khlud%20(2).ipynb) | K-Means, DBSCAN |
-| 09 | Class Imbalance | ⏳ coming soon | imbalanced-learn |
+| 09 | Class Imbalance | [📓 open] (https://github.com/annkhl/ML_projects_course/blob/main/HW9_Khlud.ipynb)| imbalanced-learn |
 | 10 | Clustering + Dimensionality Reduction | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW11_Khlud.ipynb) | PCA, t-SNE |
 | 11 | Neural Networks · MNIST | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW12_MNIST%20(2).ipynb) | Keras |
 | 12 | Neural Networks · Fashion-MNIST | [📓 open](https://github.com/annkhl/ML_projects/blob/main/HW13_Khlud.ipynb) | Keras, CNN |
